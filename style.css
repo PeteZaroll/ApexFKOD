@@ -1,0 +1,28 @@
+.legend {
+  border: 1px solid red;
+  margin: 15px;
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+  display: block;
+}
+
+.legendButton {
+  background: red;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  margin: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.legendAvatar {
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+}
